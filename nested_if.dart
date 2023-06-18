@@ -1,5 +1,5 @@
 void main() {
-  int num = 12;
+  int num = 17;
   if (num % 3 == 0 || num % 4 == 0) {
     if (num % 3 == 0 && num % 4 == 0) {
       print("num is divisible by both");
